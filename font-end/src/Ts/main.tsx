@@ -11,7 +11,7 @@ createRoot(document.getElementById("root")!).render(
       <Header />
       <App />
       <div className='bg-amber-200 h-[100px] w-3xs rounded-2xl p-11 m-6'>
-        <h1>penis</h1>
+        <h1></h1>
       </div>      
     </header>
     <main>
