@@ -1,4 +1,4 @@
-/*  import gsap from "gsap";
+import gsap from "gsap";
 import React from "react";
 import { useGSAP } from "@gsap/react";
 import '../../../css/index.css'
@@ -33,4 +33,4 @@ export const Animation = ({children}: AnimaSet) => {
       </div>
     </>
   );
-};*/
+};

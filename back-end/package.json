@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "inicio de desenvolvimento com node",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
@@ -16,6 +16,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "6.18"  
   }
 }

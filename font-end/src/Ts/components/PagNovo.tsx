@@ -17,7 +17,7 @@ export const PagNovoEsque = ({children} : PagSet) => {
 export const PagNovoDirei = ({children} : PagSet) => {
       return(
             <>
-                  <div className="float-right top-0 pt-6 p-3.5">
+                  <div className="float-end t-0 pt-6 p-3.5">
                         {children}
                   </div>
             </>
